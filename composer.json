@@ -1,5 +1,5 @@
 {
-    "name": "symfony/security",
+    "name": "go1com/symfony-security",
     "type": "library",
     "description": "Provides a complete security system for your web application",
     "keywords": [],
